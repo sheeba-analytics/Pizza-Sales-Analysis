@@ -39,7 +39,7 @@ Used Power Query in Excel to clean raw data, handle missing values, and prepare 
 #### Data Modeling
 Built a structured data model using Power Pivot to manage relationships and enable efficient analysis.
 
-### Data Analysis using DAX
+#### Data Analysis using DAX
 Created calculated measures such as Total Revenue, Total Orders, Total Pizzas Sold, and Average Order Value using DAX formulas.
 
 #### Business Performance Analysis
