@@ -22,3 +22,12 @@ The dataset consists of the following files:
 The datasets were imported into Excel and transformed using Power Query. The tables were then connected using Power Pivot to create relationships between the datasets for analysis.
 
 This structured data model enabled efficient calculation of key metrics and the development of an interactive sales dashboard.
+
+## Data Relationships
+
+The following relationships were created in the data model:
+
+1. order_details → orders (Order ID)
+2. order_details → pizzas (Pizza ID)
+3. pizzas → pizza_types (Pizza Type ID)
+4. orders → calendar (Order Date)
