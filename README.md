@@ -33,22 +33,22 @@ Pivot Charts – Interactive data visualization
 
 This project demonstrates several key data analytics skills:
 
-### Data Cleaning & Transformation
+#### Data Cleaning & Transformation
 Used Power Query in Excel to clean raw data, handle missing values, and prepare the dataset for analysis.
 
-### Data Modeling
+#### Data Modeling
 Built a structured data model using Power Pivot to manage relationships and enable efficient analysis.
 
 ### Data Analysis using DAX
 Created calculated measures such as Total Revenue, Total Orders, Total Pizzas Sold, and Average Order Value using DAX formulas.
 
-### Business Performance Analysis
+#### Business Performance Analysis
 Analyzed product performance, sales distribution by category and size, and revenue contribution of different pizzas.
 
-### Data Visualization
+#### Data Visualization
 Developed an interactive dashboard using Pivot Tables and Pivot Charts to present insights clearly.
 
-### Insight Generation
+#### Insight Generation
 Identified key sales trends, top-performing products, and opportunities to improve menu performance.
 
 ## Dashboard Features
